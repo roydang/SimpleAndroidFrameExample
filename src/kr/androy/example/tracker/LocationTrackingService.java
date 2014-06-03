@@ -1,6 +1,7 @@
 package kr.androy.example.tracker;
 
-import kr.androy.util.log.Logger;
+
+import kr.androy.base.util.log.Logger;
 import android.app.Service;
 import android.content.Intent;
 import android.location.Location;
